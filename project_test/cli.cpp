@@ -8,7 +8,8 @@ enum OP_TYPE
     YD,
     YDXX,
     QXYD,
-    TC
+    TC,
+    LS
 };
 const string ST_OK = "OK";
 bool Client::Connect()
