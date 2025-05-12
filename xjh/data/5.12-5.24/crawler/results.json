@@ -1,0 +1,24 @@
+{
+  "https://top.baidu.com/board?platform=pc\u0026amp;sa=pcindex_entry": [
+    {
+      "Type": "page",
+      "Data": {
+        "length": 200531,
+        "timestamp": 1746974660,
+        "title": "百度热搜",
+        "url": "https://top.baidu.com/board?platform=pc\u0026amp;sa=pcindex_entry"
+      }
+    }
+  ],
+  "https://www.baidu.com": [
+    {
+      "Type": "page",
+      "Data": {
+        "length": 29506,
+        "timestamp": 1746974659,
+        "title": "百度一下，你就知道",
+        "url": "https://www.baidu.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+## go语言基础（两周）
+## 面试常问
+- slice底层原理
+- interface底层原理
+- map底层原理
+- channel底层原理
+- goroutine底层原理
+- go程序内存模型，内存对齐，逃逸分析
+- 垃圾回收机制
+- GMP调度模型
+- sync和context包
